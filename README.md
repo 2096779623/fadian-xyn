@@ -7,3 +7,5 @@ Usage of fadian.exe:
   -without-emoji
         去除表情
 ```
+
+source: https://twitter.com/shizuki_lena/status/1585326000686391296
